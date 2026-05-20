@@ -1,0 +1,5 @@
+model,rmse,best
+Random Forest,1.0935,Yes
+Gradient Boosting,1.246,No
+Ridge Regression,2.5261,No
+Linear Regression,2.5261,No
